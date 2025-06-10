@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Francesc Castell | AWS Cloud Consulting Services
 
-<!--
-**francesccastell08/francesccastell08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Me llamo Francesc Castell (Francky) y actualmente trabajo como DevOps Engineer en iThinkUPC, donde participo en despliegues de infraestructura en AWS mediante Terraform, y en la monitorización de servicios con Centreon.
 
-Here are some ideas to get you started:
+He obtenido varias certificaciones de AWS, incluyendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ AWS Certified Cloud Practitioner  
+- ✅ AWS Certified Solutions Architect – Associate  
+- 📚 Preparándome para AWS Security – Specialty  
+
+También tengo experiencia práctica en:
+
+- 🧩 Automatización de infraestructura con Terraform   
+- ☁️ Gestión de servicios en AWS (EC2, S3, ALB, IAM, RDS, etc.)  
+- 📡 Redes y virtualización  
+- 🔐 Principios de seguridad en entornos cloud  
+
+Además de mi trabajo técnico, me interesa seguir profundizando en el campo de la ciberseguridad, combinando mi experiencia en redes, infraestructura y cloud.
+
+---
+
+### 🛠 Tecnologías con las que suelo trabajar
+
+```bash
+AWS · Terraform · Docker · Linux · Git · Centreon · Bash · Python básico
