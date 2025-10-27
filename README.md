@@ -1,1 +1,1 @@
-<img width="1000" height="604" alt="image" src="[https://github.com/user-attachments/assets/2fc1c6aa-bec4-49cf-946d-1375fd259cce](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/01/meme-perro-fine-2928042.jpg?tf=3840x)" />
+<img width="1000" height="604" alt="image" src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/01/meme-perro-fine-2928042.jpg?tf=1200x" />
