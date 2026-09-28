@@ -20,19 +20,27 @@ I design secure, automated **AWS infrastructure** for 130+ public-sector and ent
 
 ### About
 
-**Cloud Engineer & LLMOps @ IThinkUPC** — I design and operate mission-critical AWS infrastructure for public-sector and enterprise clients, and work on the infrastructure layer of LLMOps: systems that diagnose and heal themselves.
+**Cloud Engineer & LLMOps @ IThinkUPC** — I design and operate AWS infrastructure for public-sector and enterprise clients.
 
-**Internal tooling I build and maintain** 🔒 *(org-private, what they do):*
+**Internal tooling I build and maintain**
 
 - **Medusa** (`csc-agent-ai`) — autonomous CloudOps AI assistant for multiple purposes
 - **CloudIA** (`csc-cloudia`) — AI-powered DevOps assistant built on Bedrock AgentCore
 - **Homer CLI** (`homer`) — CLI that automates common Terraform and Packer workflows
 
-**Stack:** AWS · Terraform · Packer · Python · GitHub Actions · Bedrock · Grafana
+**Certifications:**
 
-**Certifications:** AWS Solutions Architect Associate (SAA-C03) · Cloud Practitioner (CLF-C02) — active through Jan 2028 · Security Specialty (SCS-C03) & Azure AZ-104 in progress
+<div align="center">
 
-Most of my work in this account lives in private organization repositories, so public activity here is intentionally quiet.
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect-SAA--C03_Active-059669?style=flat&logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-CLF--C02_Active-059669?style=flat&logo=amazonaws&logoColor=white)
+<br />
+![AWS Security Specialty](https://img.shields.io/badge/AWS_Security_Specialty-SCS--C03_in_progress-F59E0B?style=flat&logo=amazonaws&logoColor=white)
+![Azure Administrator Associate](https://img.shields.io/badge/Azure_Administrator-AZ--104_in_progress-F59E0B?style=flat&logo=microsoftazure&logoColor=white)
+
+<sub>SAA-C03 & CLF-C02 active through Jan 2028</sub>
+
+</div>
 
 ---
 
