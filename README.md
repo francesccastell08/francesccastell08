@@ -6,10 +6,6 @@
 
 **AWS · AZURE · N8N · BEDROCK AGENTCORE · GRAFANA · GITHUB ACTIONS**
 
-[![Website](https://img.shields.io/badge/Website-francastell.com-0ea5e9?style=flat&logo=google-chrome&logoColor=white)](https://www.francastell.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesc-castell)
-![Profile views](https://komarev.com/ghpvc/?username=francesccastell08&color=0ea5e9&style=flat)
-
 </div>
 
 ---
