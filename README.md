@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=I+design+secure+AWS+infrastructure;Terraform+%2B+Packer+%7C+15%2B+reusable+modules;Bedrock+AgentCore+%7C+MCP+%7C+RAG;130%2B+clients+in+production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Francesc;Terraform+%2B+Packer+%7C+15%2B+reusable+modules;Bedrock+AgentCore+%7C+MCP+%7C+RAG;130%2B+clients+in+production)](https://git.io/typing-svg)
 
 I design secure, automated **AWS infrastructure** for 130+ public-sector and enterprise clients.
 
@@ -25,6 +25,7 @@ Cloud Engineer at **IThinkUPC**, working on multi-cloud infrastructure (AWS, Azu
 - Secure, compliant AWS architectures (Terraform, ENS)
 - Centralized CI/CD with GitHub Actions
 - Infrastructure layer of LLMOps (Bedrock, MCP, RAG)
+- Currently: AI-driven ops with Bedrock AgentCore @ ThinkUPC
 
 Most of my work in this account lives in private organization repositories, so public activity here is intentionally quiet.
 
@@ -35,12 +36,6 @@ Most of my work in this account lives in private organization repositories, so p
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,python,bash,ts,go,docker,githubactions,grafana&theme=light" alt="Tech stack" />
 </p>
-
-<div align="center">
-
-AWS · Terraform · Packer · Python · GitHub Actions · Bedrock
-
-</div>
 
 ---
 
@@ -57,3 +52,5 @@ AWS · Terraform · Packer · Python · GitHub Actions · Bedrock
 </picture>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" width="100%" alt="footer" />
