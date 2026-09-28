@@ -16,7 +16,7 @@ I design secure, automated **AWS infrastructure** for 130+ public-sector and ent
 
 ### About
 
-**Cloud Engineer & LLMOps @ IThinkUPC** — I design and operate AWS infrastructure for public-sector and enterprise clients.
+**Cloud Engineer & LLMOps @ IThinkUPC** — I design and operate mission-critical AWS infrastructure for public-sector and enterprise clients. My principle is simple: efficiency through automation — if you run it twice, script it; if three times, ship it as a tool. Beyond operations, I work on the infrastructure layer of LLMOps: observable systems that diagnose and heal themselves, built with Bedrock, MCP and RAG.
 
 **Internal tooling I build and maintain**
 
