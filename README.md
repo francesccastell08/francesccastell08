@@ -40,6 +40,21 @@ AWS · Terraform · Packer · Python · GitHub Actions · Bedrock
 
 ---
 
+### Activity
+
+<div align="center">
+
+![Activity](metrics/activity.svg)
+<br />
+<img src="metrics/languages.svg" alt="Languages" height="170" />
+<img src="metrics/calendar.svg" alt="Commit calendar" height="170" />
+
+</div>
+
+*Auto-generated daily, including private org contributions. Focus: `terraform-modules` · `csc-cloudia` · `github-actions` (@cloudserviceconsulting 🔒).*
+
+---
+
 <div align="center">
 
 [francastell.com](https://www.francastell.com) · [LinkedIn](https://www.linkedin.com/in/francesc-castell) · [francesc.castell@ithinkupc.com](mailto:francesc.castell@ithinkupc.com)
