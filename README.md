@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Francesc;Terraform+%2B+Packer+%7C+15%2B+reusable+modules;Bedrock+AgentCore+%7C+MCP+%7C+RAG;130%2B+clients+in+production)](https://git.io/typing-svg)
 
-I design secure, automated **AWS infrastructure** for 130+ public-sector and enterprise clients.
+**AWS · AZURE · N8N · BEDROCK AGENTCORE · GRAFANA · GITHUB ACTIONS**
 
 [![Website](https://img.shields.io/badge/Website-francastell.com-0ea5e9?style=flat&logo=google-chrome&logoColor=white)](https://www.francastell.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesc-castell)
@@ -15,8 +15,6 @@ I design secure, automated **AWS infrastructure** for 130+ public-sector and ent
 ---
 
 ### About
-
-**Cloud Engineer & LLMOps @ IThinkUPC** — I design and operate mission-critical AWS infrastructure for public-sector and enterprise clients. My principle is simple: efficiency through automation — if you run it twice, script it; if three times, ship it as a tool. Beyond operations, I work on the infrastructure layer of LLMOps: observable systems that diagnose and heal themselves, built with Bedrock, MCP and RAG.
 
 **Internal tooling I build and maintain**
 
