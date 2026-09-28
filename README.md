@@ -20,12 +20,17 @@ I design secure, automated **AWS infrastructure** for 130+ public-sector and ent
 
 ### About
 
-Cloud Engineer at **IThinkUPC**, working on multi-cloud infrastructure (AWS, Azure) with a focus on:
+**Cloud Engineer & LLMOps @ IThinkUPC** — I design and operate mission-critical AWS infrastructure for public-sector and enterprise clients, and work on the infrastructure layer of LLMOps: systems that diagnose and heal themselves.
 
-- Secure, compliant AWS architectures (Terraform, ENS)
-- Centralized CI/CD with GitHub Actions
-- Infrastructure layer of LLMOps (Bedrock, MCP, RAG)
-- Currently: AI-driven ops with Bedrock AgentCore @ ThinkUPC
+**Internal tooling I build and maintain** 🔒 *(org-private, what they do):*
+
+- **Medusa** (`csc-agent-ai`) — autonomous CloudOps AI assistant for multiple purposes
+- **CloudIA** (`csc-cloudia`) — AI-powered DevOps assistant built on Bedrock AgentCore
+- **Homer CLI** (`homer`) — CLI that automates common Terraform and Packer workflows
+
+**Stack:** AWS · Terraform · Packer · Python · GitHub Actions · Bedrock · Grafana
+
+**Certifications:** AWS Solutions Architect Associate (SAA-C03) · Cloud Practitioner (CLF-C02) — active through Jan 2028 · Security Specialty (SCS-C03) & Azure AZ-104 in progress
 
 Most of my work in this account lives in private organization repositories, so public activity here is intentionally quiet.
 
