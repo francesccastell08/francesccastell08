@@ -44,14 +44,17 @@ AWS · Terraform · Packer · Python · GitHub Actions · Bedrock
 
 <div align="center">
 
-![Activity](metrics/activity.svg)
+<img src="https://streak-stats.demolab.com?user=francesccastell08&theme=transparent&hide_border=true" alt="Contribution streak" />
 <br />
-<img src="metrics/languages.svg" alt="Languages" height="170" />
-<img src="metrics/calendar.svg" alt="Commit calendar" height="170" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Contribution snake" src="dist/github-snake.svg" />
+</picture>
 
 </div>
 
-*Auto-generated daily, including private org contributions. Focus: `terraform-modules` · `csc-cloudia` · `github-actions` (@cloudserviceconsulting 🔒).*
+*Streak and snake include private org contributions. Focus: `terraform-modules` · `csc-cloudia` · `github-actions` (@cloudserviceconsulting 🔒).*
 
 ---
 
