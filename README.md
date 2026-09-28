@@ -57,11 +57,3 @@ AWS · Terraform · Packer · Python · GitHub Actions · Bedrock
 </picture>
 
 </div>
-
----
-
-<div align="center">
-
-[francastell.com](https://www.francastell.com) · [LinkedIn](https://www.linkedin.com/in/francesc-castell) · [francesc.castell@ithinkupc.com](mailto:francesc.castell@ithinkupc.com)
-
-</div>
