@@ -1,10 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=130&section=header" width="100%" alt="header" />
+
 <div align="center">
 
-# Francesc Castell
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Francesc+Castell;Cloud+Engineer+%40+ThinkUPC)](https://git.io/typing-svg)
 
-**Cloud Engineer @ ThinkUPC · Barcelona**
+<sub>Barcelona · UTC+1 · IThinkUPC</sub>
 
-I design secure, automated AWS infrastructure for 130+ public-sector and enterprise clients.
+<br />
+
+I design secure, automated **AWS infrastructure** for 130+ public-sector and enterprise clients.
 
 [![Website](https://img.shields.io/badge/Website-francastell.com-0ea5e9?style=flat&logo=google-chrome&logoColor=white)](https://www.francastell.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesc-castell)
@@ -53,8 +57,6 @@ AWS · Terraform · Packer · Python · GitHub Actions · Bedrock
 </picture>
 
 </div>
-
-*Streak and snake include private org contributions. Focus: `terraform-modules` · `csc-cloudia` · `github-actions` (@cloudserviceconsulting 🔒).*
 
 ---
 
