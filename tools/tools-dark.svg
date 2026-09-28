@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="332" viewBox="0 0 880 332" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+  <!-- Row 1: Medusa -->
+  <g>
+    <rect x="12" y="14" width="856" height="92" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="12" y="14" width="6" height="92" rx="3" fill="#a371f7"/>
+    <text x="36" y="50" font-size="16" font-weight="700" fill="#e6edf3">Medusa</text>
+    <text x="112" y="50" font-size="12" font-family="SFMono-Regular,Consolas,monospace" fill="#79c0ff">csc-agent-ai</text>
+    <rect x="762" y="30" width="82" height="24" rx="12" fill="none" stroke="#a371f7" stroke-width="1.5"/>
+    <text x="803" y="46" font-size="11" font-weight="600" text-anchor="middle" fill="#a371f7">INTERNAL</text>
+    <text x="36" y="74" font-size="13" fill="#8b949e">Autonomous CloudOps AI assistant for multiple purposes</text>
+    <text x="36" y="94" font-size="12" font-family="SFMono-Regular,Consolas,monospace" fill="#8b949e">Python · CloudOps · AI agents</text>
+  </g>
+  <!-- Row 2: CloudIA -->
+  <g>
+    <rect x="12" y="120" width="856" height="92" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="12" y="120" width="6" height="92" rx="3" fill="#0ea5e9"/>
+    <text x="36" y="156" font-size="16" font-weight="700" fill="#e6edf3">CloudIA</text>
+    <text x="112" y="156" font-size="12" font-family="SFMono-Regular,Consolas,monospace" fill="#79c0ff">csc-cloudia</text>
+    <rect x="762" y="136" width="82" height="24" rx="12" fill="none" stroke="#0ea5e9" stroke-width="1.5"/>
+    <text x="803" y="152" font-size="11" font-weight="600" text-anchor="middle" fill="#0ea5e9">INTERNAL</text>
+    <text x="36" y="180" font-size="13" fill="#8b949e">AI-powered DevOps assistant built on Bedrock AgentCore</text>
+    <text x="36" y="200" font-size="12" font-family="SFMono-Regular,Consolas,monospace" fill="#8b949e">TypeScript · Bedrock AgentCore · MCP</text>
+  </g>
+  <!-- Row 3: Homer CLI -->
+  <g>
+    <rect x="12" y="226" width="856" height="92" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="12" y="226" width="6" height="92" rx="3" fill="#d29922"/>
+    <text x="36" y="262" font-size="16" font-weight="700" fill="#e6edf3">Homer CLI</text>
+    <text x="130" y="262" font-size="12" font-family="SFMono-Regular,Consolas,monospace" fill="#79c0ff">homer</text>
+    <rect x="762" y="242" width="82" height="24" rx="12" fill="none" stroke="#d29922" stroke-width="1.5"/>
+    <text x="803" y="258" font-size="11" font-weight="600" text-anchor="middle" fill="#d29922">INTERNAL</text>
+    <text x="36" y="286" font-size="13" fill="#8b949e">CLI that automates common Terraform and Packer workflows</text>
+    <text x="36" y="306" font-size="12" font-family="SFMono-Regular,Consolas,monospace" fill="#8b949e">Python · Terraform · Packer</text>
+  </g>
+</svg>

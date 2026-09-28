@@ -20,9 +20,15 @@ I design secure, automated **AWS infrastructure** for 130+ public-sector and ent
 
 **Internal tooling I build and maintain**
 
-- **Medusa** (`csc-agent-ai`) — autonomous CloudOps AI assistant for multiple purposes
-- **CloudIA** (`csc-cloudia`) — AI-powered DevOps assistant built on Bedrock AgentCore
-- **Homer CLI** (`homer`) — CLI that automates common Terraform and Packer workflows
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="tools/tools-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="tools/tools.svg" />
+  <img alt="Internal tooling" src="tools/tools.svg" width="100%" />
+</picture>
+
+</div>
 
 **Certifications:**
 
