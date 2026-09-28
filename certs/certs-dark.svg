@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+  <!-- Card 1: SAA-C03 Active -->
+  <g>
+    <rect x="12" y="18" width="205" height="154" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="12" y="18" width="205" height="6" rx="3" fill="#3fb950"/>
+    <text x="28" y="52" font-size="11" letter-spacing="1.5" fill="#8b949e">AMAZON WEB SERVICES</text>
+    <text x="28" y="78" font-size="15" font-weight="700" fill="#e6edf3">Solutions Architect</text>
+    <text x="28" y="102" font-size="13" font-family="SFMono-Regular,Consolas,monospace" fill="#79c0ff">SAA-C03 · Associate</text>
+    <circle cx="33" cy="130" r="5" fill="#3fb950"/>
+    <text x="44" y="134" font-size="12" font-weight="600" fill="#3fb950">Active</text>
+    <text x="28" y="154" font-size="11" fill="#8b949e">Valid thru Jan 2028</text>
+  </g>
+  <!-- Card 2: CLF-C02 Active -->
+  <g>
+    <rect x="229" y="18" width="205" height="154" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="229" y="18" width="205" height="6" rx="3" fill="#3fb950"/>
+    <text x="245" y="52" font-size="11" letter-spacing="1.5" fill="#8b949e">AMAZON WEB SERVICES</text>
+    <text x="245" y="78" font-size="15" font-weight="700" fill="#e6edf3">Cloud Practitioner</text>
+    <text x="245" y="102" font-size="13" font-family="SFMono-Regular,Consolas,monospace" fill="#79c0ff">CLF-C02 · Foundational</text>
+    <circle cx="250" cy="130" r="5" fill="#3fb950"/>
+    <text x="261" y="134" font-size="12" font-weight="600" fill="#3fb950">Active</text>
+    <text x="245" y="154" font-size="11" fill="#8b949e">Valid thru Jan 2028</text>
+  </g>
+  <!-- Card 3: SCS-C03 In progress -->
+  <g>
+    <rect x="446" y="18" width="205" height="154" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="446" y="18" width="205" height="6" rx="3" fill="#d29922"/>
+    <text x="462" y="52" font-size="11" letter-spacing="1.5" fill="#8b949e">AMAZON WEB SERVICES</text>
+    <text x="462" y="78" font-size="15" font-weight="700" fill="#e6edf3">Security Specialty</text>
+    <text x="462" y="102" font-size="13" font-family="SFMono-Regular,Consolas,monospace" fill="#79c0ff">SCS-C03 · Specialty</text>
+    <circle cx="467" cy="130" r="5" fill="#d29922"/>
+    <text x="478" y="134" font-size="12" font-weight="600" fill="#d29922">In progress</text>
+    <text x="462" y="154" font-size="11" fill="#8b949e">Currently studying</text>
+  </g>
+  <!-- Card 4: AZ-104 In progress -->
+  <g>
+    <rect x="663" y="18" width="205" height="154" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="663" y="18" width="205" height="6" rx="3" fill="#d29922"/>
+    <text x="679" y="52" font-size="11" letter-spacing="1.5" fill="#8b949e">MICROSOFT</text>
+    <text x="679" y="78" font-size="15" font-weight="700" fill="#e6edf3">Azure Administrator</text>
+    <text x="679" y="102" font-size="13" font-family="SFMono-Regular,Consolas,monospace" fill="#79c0ff">AZ-104 · Associate</text>
+    <circle cx="684" cy="130" r="5" fill="#d29922"/>
+    <text x="695" y="134" font-size="12" font-weight="600" fill="#d29922">In progress</text>
+    <text x="679" y="154" font-size="11" fill="#8b949e">Currently studying</text>
+  </g>
+</svg>

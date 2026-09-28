@@ -8,11 +8,7 @@ I design secure, automated **AWS infrastructure** for 130+ public-sector and ent
 
 [![Website](https://img.shields.io/badge/Website-francastell.com-0ea5e9?style=flat&logo=google-chrome&logoColor=white)](https://www.francastell.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesc-castell)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:francesc.castell@ithinkupc.com)
 ![Profile views](https://komarev.com/ghpvc/?username=francesccastell08&color=0ea5e9&style=flat)
-
-![Ask me about](https://img.shields.io/badge/Ask_me_about-AWS_%C2%B7_Terraform_%C2%B7_Bedrock-6366f1?style=flat&logo=amazonaws&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Secure_compliant_cloud-059669?style=flat&logo=shield&logoColor=white)
 
 </div>
 
@@ -32,13 +28,11 @@ I design secure, automated **AWS infrastructure** for 130+ public-sector and ent
 
 <div align="center">
 
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect-SAA--C03_Active-059669?style=flat&logo=amazonaws&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-CLF--C02_Active-059669?style=flat&logo=amazonaws&logoColor=white)
-<br />
-![AWS Security Specialty](https://img.shields.io/badge/AWS_Security_Specialty-SCS--C03_in_progress-F59E0B?style=flat&logo=amazonaws&logoColor=white)
-![Azure Administrator Associate](https://img.shields.io/badge/Azure_Administrator-AZ--104_in_progress-F59E0B?style=flat&logo=microsoftazure&logoColor=white)
-
-<sub>SAA-C03 & CLF-C02 active through Jan 2028</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="certs/certs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="certs/certs.svg" />
+  <img alt="Certifications" src="certs/certs.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -65,5 +59,3 @@ I design secure, automated **AWS infrastructure** for 130+ public-sector and ent
 </picture>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" width="100%" alt="footer" />
