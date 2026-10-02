@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Hi%20there%2C%20I%27m%20Francesc%20Castell&fontSize=36&fontColor=ffffff&desc=Cloud%20Engineer%20%40%20ThinkUPC%20%C2%B7%20Barcelona&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Hi%20there%2C%20I%27m%20Fran&fontSize=36&fontColor=ffffff&desc=Cloud%20Engineer%20%40%20ThinkUPC%20%C2%B7%20Barcelona&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Francesc;Terraform+%2B+Packer+%7C+15%2B+reusable+modules;Bedrock+AgentCore+%7C+MCP+%7C+RAG;130%2B+clients+in+production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Fran;Terraform+%2B+Packer+%7C+15%2B+reusable+modules;Bedrock+AgentCore+%7C+MCP+%7C+RAG;130%2B+clients+in+production)](https://git.io/typing-svg)
 
 **AWS · AZURE · N8N · BEDROCK AGENTCORE · GRAFANA · GITHUB ACTIONS**
 
